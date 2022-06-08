@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"learning/buyToken.sol": "buyToken"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"learning/buyToken.sol": {
+			"keccak256": "0x287b032c19ebe690762fe974eb7b6660bfa6a3725fd2eb9971d211e25746cc37",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://13934bf52d7c05fe5aec04b2f5cc8c63dce9c751f5d8dff038f2a331d3fc3e98",
+				"dweb:/ipfs/Qma6K4YADiCW223U8uuzbfK4TrWBDHXYFNuE8wr4kiPPCv"
+			]
+		}
+	},
+	"version": 1
+}
